@@ -1,0 +1,5 @@
+.main {
+  min-height: 100vh;
+  padding: var(--spacing-2xl) 0;
+  background: radial-gradient(circle at top center, var(--color-surface), var(--color-background));
+}
